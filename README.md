@@ -1,0 +1,2 @@
+# sdds
+software development spicalization
